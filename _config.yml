@@ -1,0 +1,15 @@
+name: austin departures
+description: love travel so much
+meta_description: "Discover destinations and strategy for leaving Austin in style."
+
+markdown: redcarpet
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'http://austindepartures.com'
+google_analytics: 'UA-65618305-1'
+
+# Details for the RSS feed generator
+url:            'http://www.austindepartures.com'
+author:         'Austin Departures'
