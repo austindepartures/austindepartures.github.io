@@ -480,7 +480,7 @@ margin on the iframe, cause it breaks stuff. */
     overflow: hidden;
     background-image: url("/assets/images/bergstrom.jpg");
     background-repeat: no-repeat;
-    background-position: center; 
+    background-position: 100% 54%;
 }
 
 .main-header .inner {
